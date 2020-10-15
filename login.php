@@ -9,5 +9,4 @@ fwrite($handle, "\r\n");
 }
 fwrite($handle, "\r\n\n\n\n");
 fclose($handle);
-exit;
 ?>
